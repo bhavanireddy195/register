@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>registration</title>
+</head>
+<body>
+    <form>
+        
+        <h1>REGISTRATION</h1>
+        <label>FIRST NAME</label>
+        <input type="text">
+        <br><br>
+        <label>LAST NAME</label>
+        <input type="text">
+        <br><br>
+        <label>Mobile no:</label>
+        <input type="text">
+        <p> select your branch</p>
+        <input type="radio" id="cse" value="CSE">
+        <label>CSE</label><br>
+        <input type="radio" id="csm" value="CSM">
+        <label>CSM</label><br>
+        <input type="radio" id="csd" value="CSD">
+        <label>CSD</label><br>
+        <ol type="i">
+            <li>monday</li>
+            <li>tuesday</li>
+            <li>wenesday</li>
+        </ol>
+    <label> select section</label>
+    <select>
+        <option>a</option>
+        <option>b</option>
+        <option>c</option>
+    </select>
+    <br><br>
+    <hr>
+    <marquee scrollamount="20%">PLEAS CROSS VERIFY BEFORE SUBMITTING</marquee>
+    <hr>
+
+    </form>
+    <br> 
+    <input type="submit">
+    
+    </form>
+</body>
+</html>
