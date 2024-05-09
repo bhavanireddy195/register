@@ -2,7 +2,7 @@
 <head>
     <title>registration</title>
 </head>
-<body background color="blue">
+<body background color="blue" bgimage="dc.jpg">
     <form>
         
         <h1>REGISTRATION</h1>
